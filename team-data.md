@@ -9,3 +9,4 @@
 | Hobie A Aljohani  | CIS       | Fall 2020 |
 | Garrett Duplantis | CIS       | Fall 2020 |
 | Andrew  Folkerts  | IT        | Fall 2020 |
+| Megan Coleman     | CIS       | Fall 2020 |
