@@ -1,6 +1,5 @@
 | Name              | Major     | Grad. Term |
 |-------------------|-----------|------------|
-| Dwight K. Schrute | CIS/IT/CS | Fall 2020	 |
 | Lucas Owens       | CIS       | Fall 2020	 |
 | Surya Singh       | CS        | Fall 2020	 |
 | Delilah Howell    | CIS       | Fall 2020	 |
