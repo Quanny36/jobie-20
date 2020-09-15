@@ -21,4 +21,6 @@
 | Maurice Elmore    | CIS       | Fall 2020 |
 | Jaylen Johnson    | CIS       | Fall 2020 |
 | Joy Parker|       | CIS       | Fall 2020 |
-| Tucker Cook       | CIS       | Fall 2020 | 
+| Tucker Cook       | CIS       | Fall 2020 |
+| Curtis Holt       |           |           |
+| Gavin Honeycutt   |           |           |
